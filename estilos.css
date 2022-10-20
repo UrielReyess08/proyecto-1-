@@ -1,0 +1,36 @@
+header {
+    background-color: blue;
+    color: white;
+    font-size: xx-large;
+    font-family: Arial, helvetica, sans-serif
+}
+
+main {
+    background-color: whitesmoke;
+    width: 90%;
+    margin: 0 auto;
+
+}
+p {
+    color: #46698F;
+    text-align: justify;
+
+}
+
+h1 {
+    background-color: #81ADDB;
+    text-align: center;
+}
+
+h2 {
+    background-color: #46698F;
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: 400px;
+    margin: auto;
+    display: block;
+
+}
